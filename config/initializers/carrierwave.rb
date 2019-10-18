@@ -12,7 +12,7 @@ CarrierWave.configure do |config|
   }
 end
 
-
+# This is the olld version of the carrierwave.rb file which was copy/pasted from the Lesson documentation
 #  config.fog_provider = 'fog/aws'                        # required
 #  config.fog_public = false
 #  config.fog_credentials = {
